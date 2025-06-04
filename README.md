@@ -72,19 +72,45 @@
 
 ## Actividad y Resultados
 
-| Medio de Comunicación | Estado                | Comentario                                                                                                                                                                                                                                                                                                                  |
-| --------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| El Mercurio           | No permite el acceso  | No muestra la información, necesita de un inicio de sesión.                                                                                                                                                                                                                                                                                             |
-| La Cuarta             | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| The Clinic            | No permite el acceso  | 403 Forbbiden.                                                                                                                                                                                                                                                                                                               |
-| CNN en Español        | ¿Viable?              | El desglose de las noticias encontradas no son lo suficientemente. extensas                                                                                                                                                                                                                                                  |
-| Diario Financiero     | No permite el acceso | El diario financiero utiliza distintos métodos para evitar el web scraping. Inclusive evita la apertura del código fuente y no permite mostrar las opciones al hacer click derecho, entre otras técnicas. [Reddit al Respecto](https://www.reddit.com/r/DataHoarder/comments/17jx5ia/how_are_we_supposed_to_counter_this/). |
-| La Segunda            | No permite el acceso  | No muestra la información, requiere suscripción.                                                                                                                                                                                                                                                                                                        |
-| La Tercera            | En Proceso            | Se pueden obtener los sitios, pero llega un momento donde se obtiene status 429, esto debido a las solicitudes reiteradas. Sin Embargo, es viable la obtención de noticias.                                                                                                                                                                                                                         |
-| Las Últimas Noticias  | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| HoyxHoy               | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| Ciper                 | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| EMOL                  | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| Ex-Ante               | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| El Mostrador          | Pendiente             |                                                                                                                                                                                                                                                                                                                             |
-| El País               | En Proceso           |                                                                                                                                                                                                                                                                                                                             |
+| Medio de Comunicación | Estado                | Comentario                                                          |
+| --------------------- | --------------------- | ------------------------------------------------------------------- |
+| El Mercurio           | No permite el acceso  | <span class="reference" data-ref="coment-el-mercurio"></span>       |
+| La Cuarta             | Pendiente             | -                                                                   |
+| The Clinic            | No permite el acceso  | 403 Forbbiden.                                                      |
+| CNN en Español        | ¿Viable?              | <span class="reference" data-ref="coment-cnn"></span>               |
+| Diario Financiero     | No permite el acceso  | <span class="reference" data-ref="coment-diario-financiero"></span> |
+| La Segunda            | No permite el acceso  | <span class="reference" data-ref="coment-la-segunda"></span>        |
+| La Tercera            | Datos Obtenidos!      | 23 datos.                                                           |
+| Las Últimas Noticias  | Pendiente de revisión | <span class="reference" data-ref="coment-lun"></span>               |
+| HoyxHoy               | Sitio web inestable   | <span class="reference" data-ref="coment-hoyxhoy"></span>           |
+| Ciper                 | Datos obtenidos!      | 23 datos.                                                           |
+| EMOL                  | Datos obtenidos!      | 215 datos.                                                          |
+| Ex-Ante               | Pendiente             | -                                                                   |
+| El Mostrador          | Pendiente             | -                                                                   |
+| El País               | En Proceso            | 44 datos.                                                           |
+
+<span class="com" id="coment-el-mercurio">No muestra la información, necesita de un inicio de sesión.</span>
+
+<span class="com" id="coment-cnn">El desglose de las noticias encontradas no son lo suficientemente.</span>
+
+<span class="com" id="coment-diario-financiero">El diario financiero utiliza distintos métodos para evitar el web scraping. Inclusive evita la apertura del código fuente y no permite mostrar las opciones al hacer click derecho, entre otras técnicas. <a href="https://www.reddit.com/r/DataHoarder/comments/17jx5ia/how_are_we_supposed_to_counter_this/">Reddit al respecto</a></span>.
+
+<span class="com" id="coment-la-segunda">No muestra la información, requiere suscripción.</span>
+
+<span class="com" id="coment-lun">La información desplegada en cada noticia es presentada en un formato de diario. El sitio web no permite realizar búsquedas de información. La utilización de herramientas avanzadas con google no presenta resultados favorables.</span>
+
+<span class="com" id="coment-hoyxhoy">El sitio web no responde efectivamente a las búsquedas de información. El sitio presenta las noticias como imagenes de diarios.</span>
+
+<style>
+  .com{
+    display: none
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.reference').forEach(el => {
+    const refId = el.getAttribute('data-ref');
+    const source = document.getElementById(refId);
+    if (source) el.innerText = source.innerText;
+  });
+</script>

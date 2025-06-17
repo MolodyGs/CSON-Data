@@ -88,3 +88,23 @@
 | Ex-Ante               | Pendiente             | -                                                                                                                                                                                                                                                                                                                           |
 | El Mostrador          | Pendiente             | -                                                                                                                                                                                                                                                                                                                           |
 | El País               | En Proceso            | 44 datos.                                                                                                                                                                                                                                                                                                                   |
+
+## Estructura de Directorios
+
+📁src/
+├─ 📁archive/
+│  ├─ 📁historial/
+│  ├─ 📁pages_extracted/
+│  ├─ 📁temp/
+├─ 📁pages_extracted/
+├─ 📁extract_code/
+
+### Descripción de Directorios
+- **src → archive**: Corresponde a archivos .json con información extraída.
+- **src → archive → historial**: Conjuntos de archivos .json historicos, esto como respaldo.
+- **src → archive → pages_extracted**: Conjunto final de datos separados en carpetas según cada medio de noticias.
+- **src → archive → temp**: Conjuntos de Archivos .json temporales, utilizados para pruebas sobre un conjunto de datos.
+- **src → extract_code**: Conjunto de archivos .ipynb utilizados para la extracción de noticias. Cada noticiero corresponde a un archivo .ipynb individual.
+
+
+

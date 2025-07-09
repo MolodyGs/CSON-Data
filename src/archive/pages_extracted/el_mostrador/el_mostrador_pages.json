@@ -1,994 +1,1004 @@
 {
-    "pages": [
-        {
-            "newscast": "El Mostrador",
-            "title": "Valdivieso: Estallido social, separar causas y consecuencias",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "21 Oct 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/estallido-social-la-necesidad-de-separar-causas-y-consecuencias-por-cristian-valdivieso/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Especial 18-O | Capítulo 6 : Las primeras 48 horas del ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "18 Oct 2020",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/especial-18-o-capitulo-6-las-primeras-48-horas-del-estallido-social-vistas-desde-la-moneda/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "el diálogo de Piñera con el Jefe del Ejército",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "12 Nov 2020",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-la-noche-mas-tensa-de-la-crisis-de-octubre-el-dialogo-de-pinera-con-el-jefe-del-ejercito/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "18 indicadores de la economía Chile antes y después del ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "18 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/indicadores-que-reflejan-la-situacion-economica-de-chile-antes-y-despues-del-18-o/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Lo que hay detrás de la exhibición de fuerza de las barras ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "20 Apr 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/trasfondo-fuegos-artificiales-del-lunes-por-la-noche-trajeron-al-gobierno-los-fantasmas-de-las-barras-bravas-en-el-estallido-social/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "La crisis que provocaron las polémicas declaraciones del ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "23 Nov 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/la-crisis-que-provocaron-las-declaraciones-del-diputado-electo-johannes-kaiser-y-el-control-de-danos-del-partido-republicano/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Lea las fichas de los seis indultados del Estallido Social",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "17 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/lea-las-fichas-de-los-6-indultados-del-18-0-que-boric-beneficio-pese-a-los-fuertes-cuestionamientos-de-gendarmeria/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Embajador Velasco: acuerdo con la UE y el Estallido Social",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "20 Sep 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/embajador-en-espana-adelanta-fecha-para-suscribir-acuerdo-con-la-ue-y-culpa-a-los-30-anos-por-el-estallido-social/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Jaime Quintana y 18-O: “Una disculpa de las actuales ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "18 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/jaime-quintana-y-18-o-una-disculpa-de-las-actuales-autoridades-y-ministros-que-insultaron-a-carabineros-ayudaria-a-restablecer-las-confianzas/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "¿Cuándo y cómo se jodió Chile? Por Mario Waissbluth.",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "4 Dec 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/cuando-y-como-se-jodio-chile-por-mario-waissbluth/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Iván Poduje a tres años del 18-O: “Los que mandaban ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "16 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/ivan-poduje-a-tres-anos-del-18-o-los-que-mandaban-eran-las-barras-bravas-y-los-capucha-de-la-periferia/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Ottone: Cada presidente tiene los asesores que se merece",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "10 Jan 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/ernesto-ottone-cada-presidente-tiene-los-asesores-que-se-merece/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Carlos Franz y Feria del Libro de Buenos Aires",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "28 Feb 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/carlos-franz-y-el-estallido-social-en-la-feria-del-libro-de-buenos-aires-supongo-que-se-olvidaron-de-invitarme/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Dueño de ex Fuente Alemana y película sobre zona cero",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "26 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/dueno-de-ex-fuente-alemana-y-pelicula-sobre-zona-cero-con-el-tiempo-esa-figura-romantica-del-combatiente-se-dio-vuelta/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Perfil: Javier Iturriaga, el general que contradijo al ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "2 Mar 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/perfil-javier-iturriaga-el-general-que-contradijo-al-presidente-el-18-o-y-que-asumira-como-comandante-en-jefe-del-ejercito/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Felipe Alessandri a tres años del 18-O: “Arrasaron con el ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "1 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/felipe-alessandri-a-tres-anos-del-18-o-arrasaron-con-el-casco-antiguo-de-la-ciudad-y-muchos-dirigentes-de-izquierda-miraban-al-cielo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El hastío interminable de los vecinos de Plaza Italia",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/el-hastio-interminable-de-los-vecinos-de-plaza-italia-protestas-de-los-viernes-no-se-detienen-aunque-con-pocos-manifestantes/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Rector del Instituto Nacional y caída en puntajes",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Jan 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/rector-del-instituto-nacional-y-caida-en-puntajes-la-comunidad-sufrio-por-la-violencia-de-2019-y-los-procesos-educativos-quedaron-interrumpidos/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Autor de “Por qué fracasan los países” y el proceso chileno",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "28 May 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/el-giro-optimista-sobre-chile-de-james-robinson-autor-de-por-que-fracasan-los-paises-su-proceso-de-reescribir-y-rechazar-la-constitucion-es-muy-saludable/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Dueño de Bar Nacional y su cierre tras 62 años",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "17 Feb 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/dueno-de-bar-nacional-y-su-cierre-tras-62-anos-con-el-estallido-social-la-gente-desaparecio-del-centro/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "La trayectoria de Rodrigo Rojas Vade, el convencional que ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "5 Jul 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-quien-es-rodrigo-rojas-el-constituyente-que-advirtio-un-posible-paro-de-la-convencion-por-los-presos-del-18-o/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Carlo Siri y demanda por ex Fuente Alemana: “Les diría a ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "11 Nov 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/carlo-siri-y-demanda-por-ex-fuente-alemana-les-diria-a-los-abogados-del-cde-que-imaginen-como-fue-vivir-aca-el-estallido/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Por qué el gobierno le quitó el piso al alcalde Carter",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "24 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/por-que-el-gobierno-le-quito-el-piso-al-alcalde-carter-para-demoler-viviendas-de-narcos-por-jorge-schaulsohn/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Cómo el PC apostó a forzar renuncia de Piñera y JJCC se ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "14 Oct 2020",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/a-un-ano-del-acuerdo-constitucional-como-el-pc-aposto-a-forzar-renuncia-de-pinera-y-jjcc-se-sumo-a-la-primera-linea/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Max Colodro: Evelyn Matthei es una mejor carta que Kast",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "28 Jul 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/max-colodro-matthei-es-una-mejor-carta-porque-tiene-mas-posibilidades-de-construir-puentes-con-el-centro-que-kast/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Javiera Parada: “Parte de la crisis en la que estamos se ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "6 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/javiera-parada-parte-de-la-crisis-en-la-que-estamos-se-debe-a-la-condescendencia-que-hubo-con-la-violencia/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "50 años de Golpe: Heraldo Muñoz dice No a una ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Apr 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/heraldo-munoz-no-debe-haber-una-interpretacion-oficial-de-los-50-anos-del-golpe/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Mathias Klotz y violencia en Santiago: “Se está ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 May 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/mathias-klotz-y-violencia-en-santiago-se-esta-produciendo-un-abandono-mucho-mas-preocupante-y-definitivo-del-area/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Cuándo \"se jodió\" la economía chilena, según los expertos",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "3 Dec 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/cuando-se-jodio-la-economia-chilena-segun-los-expertos-y-los-datos/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Encuestas: Piñera recupera popularidad de antes del 18-O",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Feb 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/desglose-de-cadem-pinera-recupera-la-popularidad-que-tenia-antes-del-18-o-con-repunte-en-regiones-y-mayores-de-55-anos-y-regresa-a-la-politica/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Sumario por violencia post 18/0: Contraloría determinó ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "3 Mar 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-sumario-por-violencia-post-18-0-contraloria-propone-suspender-al-subdirector-de-carabineros-y-a-otros-dos-generales/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Óscar Aranda, ex director de Inteligencia de la Armada",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Apr 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/oscar-aranda-ex-director-de-inteligencia-de-la-armada-la-ani-es-muy-debil-en-comparacion-con-otros-paises-y-con-lo-que-chile-requiere/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "DeliBest inicia proceso para demandar a Chile ante Ciadi",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Feb 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/delibest-grupo-proveedor-alimentacion-junaeb-prepara-demanda-contra-chile-ante-el-ciadi/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Iván Poduje: Hay comunas sin control policial.",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "26 Oct 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/ivan-poduje-tenemos-comunas-donde-el-100-por-ciento-del-territorio-esta-sin-control-policial/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Marcela Ríos deja el ministerio de Justicia",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "7 Jan 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/marcela-rios-deja-el-ministerio-de-justicia/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "TC: Abogado de Boric dice que indultos fueron p paz social",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "16 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/abogado-de-boric-vuelve-sobre-la-tesis-de-la-paz-social-ante-el-tc-el-fundamento-expreso-de-estos-indultos-es-la-necesidad-de-superar-una-crisis/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "18-O: La falsa historia de torturas en la estación Baquedano",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "1 Jan 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/18-o-la-falsa-historia-de-torturas-en-la-estacion-baquedano-donde-el-gobierno-busca-construir-un-memorial/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Oficialismo niega un tercer proceso (y la polémica Stingo)",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "27 Nov 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/oficialismo-niega-seguir-proceso-constitucional-tras-plebiscito-y-la-polemica-de-stingo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Carlo Siri, dueño de ex Fuente Alemana: “La violencia en ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "19 Mar 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/carlo-siri-dueno-de-ex-fuente-alemana-la-violencia-en-plaza-italia-sigue-igual-e-incluso-peor/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Navarrete y gobierno de Boric: no se le reconoce autoridad",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "14 Apr 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/jorge-navarrete-y-crisis-de-seguridad-los-ciudadanos-le-reconocen-poca-autoridad-a-esta-administracion-y-por-lo-tanto-poca-eficacia/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Seguridad: Burgos analiza cambio de discurso del gobierno",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "8 Apr 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/jorge-burgos-el-gobierno-partio-con-un-discurso-desastroso-en-seguridad-bienvenido-el-cambio-pero-hay-que-mantenerlo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El memorial del gobierno en homenaje a protestas del 18-O",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "3 Apr 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/el-memorial-del-gobierno-en-homenaje-a-las-protestas-del-18-o-en-la-estacion-baquedano-y-la-division-que-genera-en-el-lugar/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Boric y Carabineros: el matrimonio por conveniencia que ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "31 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/boric-y-carabineros-el-matrimonio-por-conveniencia-que-atormenta-al-gobierno-por-jorge-schaulsohn/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Qué hay detrás de la crisis que vive el sector construcción",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "1 Dec 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/que-hay-detras-de-la-crisis-que-vive-el-sector-construccion/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El cuento del tío de la política. Por Cristián Valdivieso",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "16 Jul 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/crecimiento-economico-el-cuento-del-tio-de-la-politica-por-cristian-valdivieso/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El telefonazo a Llaitul de parte de la ministra Vega",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 Aug 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/el-desconocido-telefonazo-a-llaitul-de-parte-de-la-ministra-de-desarrollo-social-tras-su-llamado-a-tomar-las-armas/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Müller: Hay razones para ser críticos con republicanos",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "15 Sep 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/gonzalo-muller-y-diferencias-en-la-derecha-en-el-consejo-constitucional-hay-razones-para-ser-criticos-con-republicanos/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Dos años de Cúcuta: la historia inédita y los costos del ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "20 Feb 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-dos-anos-d-cucuta-historia-inedita-y-los-costos-del-viaje-que-termino-en-una-pesadilla-para-pinera/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Las razones detrás del masivo éxodo de haitianos desde ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "24 Sep 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/casi-91-mil-haitianos-sin-residencia-definitiva-y-acusaciones-de-racismo-conozca-las-razones-detras-de-su-exodo-desde-chile-hacia-eeuu/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "La publicación a favor de la evasión del director de Metro",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "11 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/la-publicacion-a-favor-de-la-evasion-del-director-de-metro/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Ricardo Martínez: \"Pinochet se constituyó en un caudillo\"",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "10 Sep 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/ex-comandante-en-jefe-del-ejercito-ricardo-martinez-pinochet-se-constituyo-en-la-practica-en-un-caudillo-y-asi-parecen-considerarlo-quienes-piensan-que-es-intocable/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Boric al TC: “Este indulto responde a razones de paz social”",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "6 Feb 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/boric-responde-al-tc-por-condenado-con-amplio-prontuario-previo-al-18-o-este-indulto-responde-a-razones-de-paz-social-lea-el-documento/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Francisco Covarrubias: “Los grandes creadores de fake ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "6 Dec 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/francisco-covarrubias-los-grandes-creadores-de-fake-news-no-son-los-medios-sino-los-gobiernos/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Roberto Merino, escritor: “El centro de Santiago se ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "17 Jun 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/roberto-merino-escritor-el-centro-de-santiago-se-convirtio-en-un-sitio-eriazo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "10 claves para entender el alza récord de la bolsa chilena",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 Jul 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/las-10-claves-para-entender-el-alza-record-que-deja-a-la-bolsa-chilena-en-su-maximo-historico/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Matías Rivas: 50 años del golpe y el 18/0 en Feria del Libro",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "22 Feb 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/matias-rivas-y-50-anos-del-golpe-y-el-18-0-en-feria-del-libro-de-buenos-aires-me-llama-la-atencion-la-opacidad-de-la-organizacion/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Las 12 cartas enviadas a Boric por los presos del 18-O",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "21 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/expedientes-las-12-cartas-enviadas-a-boric-por-los-presos-del-18-o-que-recibieron-el-indulto-en-10-casos-pese-a-los-informes-negativos-de-gendarmeria/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Vecinos de Santiago: renombre de calles y derrota de Irací",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "11 Aug 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/vecinos-de-santiago-contra-cambio-de-nombres-de-calles-hay-un-deseo-por-refundar-todo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Teresa Marinovic tras triunfo de Kast en primera vuelta",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 Nov 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/teresa-marinovic-tras-triunfo-de-kast-en-primera-vuelta-la-eleccion-de-constituyentes-no-represento-el-chile-real/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "María José Zaldívar: ¿La ministra que cuenta los días para ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "23 Jan 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/maria-jose-zaldivar-la-ministra-que-cuenta-los-dias-para-salir-del-gabinete/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Cadem: 64% en desacuerdo con indultos asociados al 18- ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "8 Jan 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/cadem-64-en-desacuerdo-con-indultos-asociados-al-18-o-y-boric-alcanza-70-de-desaprobacion-la-mayor-de-su-gestion-lea-aqui-la-encuesta-completa/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Gobierno dilata envío de reforma de pensiones para ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "20 Oct 2020",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/gobierno-dilata-envio-de-reforma-de-pensiones-para-buscar-acuerdo-con-chile-vamos/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Duro informe de Contraloría contra alcaldesa Hassler",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Apr 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/duro-informe-de-contraloria-cuestiona-compra-de-clinica-sierra-bella-por-precio-injustificado-y-complica-a-alcaldesa-hassler/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Nuevos detalles del convenio entre ProCultura y Antofagasta",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "7 Jul 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/262-mil-por-pintar-1-metro-cuadrado-de-pared-los-detalles-del-convenio-de-la-fundacion-procultura-en-antofagasta-y-como-salpica-al-jefe-del-segundo-piso/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Milei Presidente: Balada para un loco. Por Paz Zárate",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "20 Nov 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/milei-presidente-balada-para-un-loco-por-paz-zarate/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Opinión: Sebastián Piñera, un presidente sin quilla (y ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Mar 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-opinion-sebastian-pinera-un-presidente-sin-quilla-y-el-diagnostico-premonitorio-de-jaime-guzman/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Pablo Iglesias, el ex líder de Podemos y cercano a Boric ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "22 Sep 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/pablo-iglesias-el-ex-lider-de-podemos-y-cercano-a-boric-sale-a-defender-al-polemico-embajador-en-espana/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Las alertas sobre Luis Castillo que desoyó La Moneda",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "15 Dec 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/la-adiccion-a-la-pasta-base-y-otras-alertas-que-desoyo-la-moneda-para-indultar-a-luis-castillo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Pablo Altikes y la polémica que sacude a arquitectos",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "3 Sep 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/pablo-altikes-y-la-polemica-que-sacude-a-arquitectos-el-colegio-esta-con-una-tendencia-muy-fuerte-en-el-octubrismo/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Orrego: Alternativas ante fracaso del proceso constitucional",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 Sep 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/y-luego-que-alternativas-ante-el-fracaso-del-proceso-constitucional-por-juan-pablo-orrego/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Revisa aquí el programa de Lavín: Compromete que un ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "17 Jun 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-revisa-aqui-el-programa-de-lavin-compromete-que-un-tercio-del-gabinete-provenga-de-colegios-publicos-y-un-salario-minimo-de-500-mil/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Hacienda: el 70% de los bonos estará emitido en pesos ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "24 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/hacienda-el-70-de-los-bonos-estara-emitido-en-pesos-o-uf-al-cierre-de-2023/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Los nexos de Milei con intelectuales y economistas chilenos",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "19 Nov 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/los-nexos-de-javier-milei-con-intelectuales-y-economistas-chilenos-ademas-de-jose-antonio-kast/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El peso de la historia: Allende y Boric. Por Daniel Mansuy",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "2 May 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/el-peso-de-la-historia-salvador-allende-y-gabriel-boric-por-daniel-mansuy/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Oportunidades y amenazas para Paula Narváez tras su ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "28 Jan 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-oportunidades-amenazas-para-paula-narvaez-tras-su-proclamacion-en-el-ps-10-claves-de-su-candidatura-presidencial/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Piergentili: \"Si hay que revisar algunos indultos, se hará\"",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "26 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/natalia-piergentili-presidenta-del-ppd-si-hay-que-revisar-algunos-indultos-se-hara/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El costo de los dos procesos constitucionales rechazados",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "17 Dec 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/150-mil-millones-el-costo-de-los-dos-procesos-constitucionales-rechazados/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Perfil: Javier Velasco, el embajador de Chile en España ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "21 Sep 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/perfil-javier-velasco-el-embajador-de-chile-en-espana-que-suma-polemicas-y-su-estrecha-relacion-con-boric/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "El discreto John Smok: quién es y qué piensa el secretario ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "29 Jun 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/el-discreto-john-smok-quien-es-y-que-piensa-el-secretario-de-la-convencion-aplaudido-en-forma-transversal/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Jorge Bofill y crisis institucional: “El país ya se jodió”",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "30 Jun 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/abogado-jorge-bofill-y-crisis-institucional-el-pais-ya-se-jodio/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Paulina Núñez (RN): “No permitiremos que el gobierno ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "7 Jun 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/paulina-nunez-rn-y-gira-de-boric-varios-lideres-depositan-en-el-una-renovacion-de-la-izquierda-con-posiciones-mas-radicales-que-lagos-y-bachelet/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Proyecto de 40 horas: qué dice y cuándo podría ser ley",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "22 Mar 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/que-dice-el-proyecto-40-horas-laborales-camino-legislativo-apoyos-partido-comunista/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Ximena Peralta, la nueva vicepresidenta del partido de Boric",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "26 Oct 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/perfil-ximena-peralta-la-nueva-vicepresidenta-del-partido-boric-y-su-rol-de-interlocutora-privilegiada-con-el-mandatario/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Los polémicas imágenes que marcaron el día 25 de la ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "30 Jul 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/los-polemicas-imagenes-que-marcaron-el-dia-25-de-la-convencion-constitucional/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Elecciones CUT: Bárbara Figueroa (PC) pierde a manos ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "29 May 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/elecciones-cut-barbara-figueroa-pc-pierde-a-manos-del-ps-y-sufre-nuevo-reves-tras-derrota-en-constituyentes/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Hugo Herrera, asesor de Desbordes, y el riesgo de que la ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "16 Jun 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/hugo-herrera-asesor-de-desbordes-y-el-riesgo-de-que-la-derecha-no-pase-a-2a-vuelta-hoy-todo-esta-abierto/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Mariano Fernández No compartí ni ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "17 Jul 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/mariano-fernandez-ex-canciller-no-comparti-ni-comparto-la-doctrina-de-garzon/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "20 cosas que tienes que saber sobre Ximena Rincón, la ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "26 Jan 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-https-www-ex-ante-cl-20-cosas-que-tienes-que-saber-sobre-ximena-rincon-la-candidata-presdencial-dc/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Gonzalo Muller: Es una lápida al octubrismo y a la violencia",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "5 Sep 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/gonzalo-muller-con-este-resultado-se-le-pone-la-lapida-al-octubrismo-y-a-la-violencia-que-le-dio-origen/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Historiador: En la derecha hay distintas miradas del golpe",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "25 Jul 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/historiador-jose-manuel-castro-en-la-derecha-hay-distintas-miradas-sobre-la-legitimidad-del-11-de-septiembre/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "César Hidalgo, a dos años de su polémica salida del MIT",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "18 May 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/cesar-hidalgo-a-dos-anos-de-su-salida-del-mit-la-meritocracia-no-esta-funcionando-en-las-universidades-de-elite/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Quién es quién en la nómina de consejeros del Gobierno",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "12 May 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/quien-es-quien-en-el-elenco-del-frente-amplio-el-pc-y-el-ps-en-el-consejo-constitucional/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Presidente designa como nuevo comandante en Jefe del ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "3 Nov 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/inminente-nombramiento-de-nuevo-comandante-en-jefe-del-ejercito-general-iturriaga-figura-entre-los-dos-favoritos/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "15 capítulos de la biografía y las reflexiones de Humberto ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "6 May 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-15-capitulos-de-la-biografia-y-las-reflexiones-de-humberto-maturana-1928-2021/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Quiénes son los otros 15 gobernadores elegidos (además ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "13 Jun 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-quienes-son-los-otros-15-gobernadores-elegidos-ademas-de-orrego-en-la-rm/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Perfil: 20 cosas que hay que saber de Mario Desbordes, el ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "10 Jan 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/perfil-20-cosas-que-hay-que-saber-de-mario-desbordes/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Qué hay que saber de Raúl Letelier, nuevo presidente del ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "12 Apr 2023",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/perfil-raul-letelier-el-recien-nombrado-presidente-del-cde-por-boric-que-defendio-los-indultos-en-el-tc-y-es-cercano-a-atria/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "Violencia en el Instituto Nacional: Cómo los alumnos ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "23 May 2022",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/violencia-en-el-instituto-nacional-como-los-alumnos-preparan-las-bombas-molotov-dentro-del-establecimiento-educacional/"
-        },
-        {
-            "newscast": "El Mostrador",
-            "title": "La historia del proceso de Javiera Parada que culminó con ...",
-            "description": "",
-            "category": "The site does not provide a category",
-            "date": "19 Apr 2021",
-            "image_link": "not found initially",
-            "author": "not found initially",
-            "link": "https://www.ex-ante.cl/https-www-ex-ante-cl-la-historia-del-proceso-de-javiera-parada-que-culmino-con-su-adhesion-al-liberalismo-y-a-la-candidatura-de-briones/"
-        }
-    ]
+  "pages": [
+      {
+          "newscast": "El Mostrador",
+          "title": "Protestas en Chile: las graves consecuencias del estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "29 Nov 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2019/11/29/protestas-en-chile-las-graves-consecuencias-del-estallido-social-para-la-economia-del-pais-2/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Cifras y violaciones de derechos humanos en el estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "23 Jun 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2021/06/23/cifras-y-violaciones-de-derechos-humanos-en-el-estallido-social-las-gravisimas-omisiones/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El estallido social de 2019 y el revisionismo histórico",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/columnas/2023/10/18/el-estallido-social-de-2019-y-el-revisionismo-historico/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Protestas en Chile: el impacto psicológico del estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "5 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/agenda-pais/2019/12/05/protestas-en-chile-el-impacto-psicologico-del-estallido-social-en-la-poblacion/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Dos años del estallido social: Chile 21 e Instituto británico ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "15 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/10/15/dos-anos-del-estallido-social-chile-21-e-instituto-britanico-forensic-architecture-presentaran-evidencia-sobre-el-impacto-de-accion-policial-en-manifestaciones/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "La calle no se calma: A 50 días del estallido social siguen ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "6 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2019/12/06/la-calle-no-se-calma-a-50-dias-del-estallido-social-siguen-manifestaciones-e-incidentes/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Las hipótesis de la intervención extranjera en Chile",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "27 Jan 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/2020/01/27/las-hipotesis-de-la-intervencion-extranjera-en-chile/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "A tres años del estallido social",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/columnas/2022/10/17/a-tres-anos-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El 18 de octubre, el día en que todos quedaron offside",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/2023/10/18/el-18-de-octubre-el-dia-en-que-todos-quedaron-offside/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "A un año del estallido social: pese al “blindaje” del ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "15 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/10/15/a-un-ano-del-estallido-social-pese-al-blindaje-del-gobierno-encuesta-de-chile-21-revela-que-la-mayoria-cree-que-carabineros-no-esta-mejor-preparado/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Exconvencional Patricio Fernández a tres años del ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "19 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2022/10/19/exconvencional-patricio-fernandez-a-tres-anos-del-estallido-social-no-se-trata-solamente-de-un-problema-chileno-sino-de-uno-a-la-chilena/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Presidente Boric a 4 años del estallido social: “Sus efectos ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2023/10/18/presidente-boric-a-4-anos-del-estallido-social-sus-efectos-son-de-largo-aliento/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Mujeres en el estallido social: el debut del himno del ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/braga/2023/10/18/mujeres-en-el-estallido-social-un-himno-para-el-feminismo-internacional-y-la-lucha-global/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "A casi un año del 18 de octubre, las cifras del Gobierno ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "2 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/10/02/a-casi-un-ano-del-18-de-octubre-las-cifras-del-gobierno-sobre-los-dd-hh-en-el-estallido-social-3-443-personas-heridas-y-347-con-trauma-ocular/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Ministerio Público registra 33 muertes durante el estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "27 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/02/27/ministerio-publico-registra-33-muertes-durante-el-estallido-social-4-se-atribuyen-a-agentes-del-estado/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Del estallido de octubre a la pandemia: estudio ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 May 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/05/18/del-estallido-de-octubre-a-la-pandemia-estudio-de-la-achm-arroja-puntos-neuralgicos-de-tension-social-en-las-comunas/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Estallido social: condenado a siete años de presidio por ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "1 Apr 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/04/01/estallido-social-condenado-a-siete-anos-de-presidio-por-danos-a-catedral-de-puerto-montt-pide-indulto-a-presidente-boric/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "A un año del 18-O: el viernes de furia que derrumbó ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/10/17/a-un-ano-del-18-o-el-viernes-de-furia-que-derrumbo-el-oasis-de-pinera-y-desato-un-proceso-constituyente-sin-vuelta-atras/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El balance del INDH a un año del estallido social",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "16 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/10/16/el-balance-del-indh-a-un-ano-del-estallido-social-el-estado-de-chile-ha-hecho-cosas-pero-son-dolorosamente-insuficientes/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Director de Metro tras llamado a evasión durante estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "12 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/10/12/director-de-metro-tras-llamado-a-evasion-durante-estallido-social-me-parece-que-descontextualizar-y-sobredimensionar-un-tuit-no-corresponde/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Chile bipolar: del estallido social a Daddy Yankee en solo ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2022/10/17/chile-bipolar-del-estallido-social-a-daddy-yankee-en-solo-mil-dias/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "«Postales del Estallido Social Chileno»: un libro ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "1 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/10/01/postales-del-estallido-social-chileno-un-libro-colaborativo-con-fotografias-sobre-el-18-de-octubre/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Científicos buscan establecer las dinámicas del estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "28 Jul 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/07/28/cientificos-buscan-establecer-las-dinamicas-del-estallido-social-del-18-octubre-con-herramientas-de-la-fisica-del-caos/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "de Carabineros a un año del estallido social: Informe UDP ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/10/18/el-panorama-sombrio-de-carabineros-a-un-ano-del-estallido-social-informe-udp-sobre-los-dd-hh-concluye-que-violencia-policial-es-una-practica-extendida-en-el-tiempo/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Prueba no superada: estallido social hizo crujir al Frente ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "19 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2019/12/19/prueba-no-superada-estallido-social-hizo-crujir-al-frente-amplio/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Caso Kayser y los cinco muertos olvidados del estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "3 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2022/10/03/caso-kayser-y-los-cinco-muertos-olvidados-del-estallido-social-familiares-de-las-victimas-apuntan-contra-el-fiscal-de-la-causa/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "La memoria de las murallas: proyecto web rescata registro ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "25 Aug 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/08/25/la-memoria-de-las-murallas-proyecto-web-rescata-el-registro-grafico-del-estallido-social-plasmado-en-la-alameda/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Estallido Social: Formalizarán a capitán del Ejército que ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "14 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/10/14/estallido-social-formalizaran-a-capitan-del-ejercito-que-ordeno-disparos-en-manifestacion-de-la-serena/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Manifestantes interrumpen el tránsito en Plaza Ñuñoa a ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2022/10/18/manifestantes-interrumpen-el-transito-en-plaza-nunoa-a-tres-anos-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "«Chile Despertó»: Lanzan libro sobre el estallido social ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2019/12/17/chile-desperto-lanzan-libro-sobre-el-estallido-social-contado-por-las-murallas-de-la-zona-cero/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Plaza Italia congregó a decenas de miles de personas en ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/10/18/plaza-italia-congrega-a-miles-de-personas-en-el-aniversario-del-18-o-mientras-el-gobierno-monitorea-la-manifestacion-parapetado-en-la-moneda/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Estallido Social",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "26 Aug 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/tag/estallido-social/page/64/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Miles de chilenos asistieron a gran concierto «por la ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "14 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2019/12/14/miles-de-chilenos-asistieron-a-gran-concierto-por-la-dignidad-tras-8-semanas-de-crisis/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Claves mapuche para entender el estallido de Chile",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "16 Nov 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2019/11/16/claves-mapuche-para-entender-el-estallido-de-chile/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Estallido social golpea el precio del pan: pymes en alerta ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "20 Nov 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/mercados/2019/11/20/estallido-social-golpea-el-precio-del-pan-pymes-en-alerta-por-alza-de-materias-primas/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El tapiz colectivo que rescata las imágenes del estallido ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "6 Jul 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/07/06/el-tapiz-colectivo-que-rescata-las-imagenes-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El estudio que denuncia obstrucción a la prensa y censura ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "22 Jan 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/01/22/el-estudio-que-denuncia-obstruccion-a-la-prensa-y-censura-en-redes-sociales-durante-el-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "No solo fueron 30 pesos: se cumple un año de las ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "6 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/multimedia/2020/10/06/no-solo-fueron-30-pesos-se-cumple-un-ano-de-las-primeras-evasiones-de-protesta-iniciada-por-estudiantes-tras-el-alza-del-pasaje-del-metro/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Analista colombiano Forrest Hylton: «Solo Chile se ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "31 May 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2021/05/31/analista-colombiano-forrest-hylton-solo-chile-se-compara-con-colombia-en-terminos-de-sostener-la-masividad-de-un-movimiento-frente-a-una-represion-tan-tenaz/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El análisis de Chile 21 e Instituto británico Forensic ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/10/18/el-analisis-de-chile-21-e-instituto-britanico-forensic-architecture-sobre-uso-de-lacrimogenas-en-el-estallido-es-muy-similar-a-lo-que-vimos-durante-la-primavera-arabe/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Micco compara intentos de llegar a La Moneda durante ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "27 Sep 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2023/09/27/micco-compara-intentos-de-llegar-a-la-moneda-durante-estallido-con-golpe-de-estado-de-hitler-de-1923/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "«Se oía venir», el libro que explica cómo la música chilena ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "3 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/02/03/se-oia-venir-el-libro-que-explica-como-la-musica-chilena-se-anticipo-al-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Callar la calle: Centro GAM y Arte Alameda condenan el",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "19 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/02/19/callar-la-calle-centro-gam-y-arte-alameda-condenan-el-borrado-de-sus-fachadas-que-registraban-la-historia-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Documental sobre el estallido social en Valparaíso es ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "22 Sep 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2022/09/22/documental-sobre-el-estallido-social-en-valparaiso-es-premiado-en-la-india/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El vandalismo también se hizo presente este 18-O con dos ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/10/18/el-vandalismo-tambien-se-hizo-presente-este-18-o-con-dos-iglesias-incendiadas-saqueos-y-ataques-a-comisarias/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Experto en fake news: «En el estallido la desinformación ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "7 Jan 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2021/01/07/experto-en-fake-news-en-el-estallido-la-desinformacion-que-se-compartio-tenia-principalmente-intencionalidad-politica-o-ideologica/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El rol de la derecha social a un año del estallido",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/10/17/el-rol-de-la-derecha-social-a-un-ano-del-estallido/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Interior informa que 367 personas reciben pensión de ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "1 Nov 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2022/11/01/interior-informa-que-367-personas-reciben-pension-de-gracia-por-violaciones-a-los-dd-hh-durante-el-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "La gran ola feminista y su protagonismo en el movimiento ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "13 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/braga/2020/10/13/la-gran-ola-feminista-y-su-protagonismo-en-el-movimiento-social-a-un-ano-del-estallido/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "La salida de US$ 50.000 millones desde el Estallido",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "23 Jan 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/el-semanal/2023/01/23/la-salida-de-us-50-000-millones-desde-el-estallido-muchos-de-los-que-temieron-un-chilezuela-estan-mirando-numeros-rojos/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Presidente Boric y su alusión al estallido social en la ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "1 Jun 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/06/01/presidente-boric-y-su-alusion-al-estallido-social-en-la-cuenta-publica-no-podemos-seguir-permitiendo-que-por-protestar-se-termine-pagando-con-la-vida/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Desbordes y su balance a dos años del estallido social",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/10/18/desbordes-y-su-balance-a-dos-anos-del-estallido-social-las-reformas-no-se-han-hecho-y-no-hay-indicio-que-nos-permita-pensar-que-extranjeros-provocaron-violencia-ese-dia/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Estallido social sigue golpeando al retail: ABC Din y Dijon ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "27 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/mercados/2019/12/27/estallido-social-sigue-golpeando-al-retail-abc-din-y-dijon-se-adscriben-a-proceso-de-liquidacion-concursal/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Víctimas de trauma ocular del estallido social exigen ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "5 Nov 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/11/05/victimas-de-trauma-ocular-del-estallido-social-exigen-reparacion/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Apremios ilegítimos en el estallido social: formalizan a ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "9 Nov 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/11/09/apremios-ilegitimos-en-el-estallido-social-formalizan-a-cinco-funcionarios-del-ejercito-por-golpiza-en-penalolen/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Retail sigue acusando efectos del estallido social: bajan ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "9 Jan 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/01/09/retail-sigue-acusando-efectos-del-estallido-social-bajan-clasificacion-de-tiendas-hites/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El cantante español Muerdo le canta al estallido social de ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "23 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/10/23/el-cantante-espanol-muerdo-le-canta-al-estallido-social-de-chile-con-nueva-version-de-un-tema-de-pablo-milanes/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Perro Matapacos revivió en Barcelona por la ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "26 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/10/26/perro-matapacos-revivio-en-barcelona-por-la-conmemoracion-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "CIDH condenó uso excesivo de la fuerza de Carabineros ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "6 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2019/12/06/cidh-condeno-uso-excesivo-de-la-fuerza-de-carabineros-en-las-siete-semanas-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "A casi un año del estallido social: Fiscalía busca primeras ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "24 Aug 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/08/24/a-casi-un-ano-del-estallido-social-fiscalia-busca-primeras-detenciones-por-incendio-en-estacion-de-metro/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Gobierno rectifica y señala que Presidente Boric indultó ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "30 Dec 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2022/12/30/presidente-boric-indulta-a-10-condenados-del-estallido-social-y-al-exfrentista-jorge-mateluna/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "A dos años del “Chile despertó”: masiva manifestación en ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2021/10/18/a-dos-anos-del-chile-desperto-masiva-manifestacion-en-el-segundo-aniversario-del-18-o-se-toma-la-zona-cero-del-estallido/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Sigue el debate por indulto a presos del estallido social",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "30 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/10/30/sigue-el-debate-por-indulto-a-presos-del-estallido-social-rector-de-la-puc-se-opone-a-la-idea-y-diputado-winter-asegura-que-el-gobierno-usa-politicamente-la-prision-preventiva/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Corte Suprema revocó fallo que impedía a Carabineros ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "24 Feb 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/02/24/corte-suprema-revoco-fallo-que-impedia-a-carabineros-el-uso-de-escopetas-antidisturbios-en-valparaiso/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Grupo de 22 constituyentes pide «libertad inmediata",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "26 May 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/05/26/grupo-de-22-constituyentes-pide-libertad-inmediata-a-los-presos-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Formalizan a coronel de Carabineros por disparos durante ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "7 Dec 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/12/07/formalizan-a-coronel-de-carabineros-por-disparos-durante-estallido-social-en-penalolen-quedo-con-firma-mensual-y-arraigo-nacional/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Gobierno de Gabriel Boric debuta este viernes con su ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "10 Mar 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2022/03/10/estallido-social-gobierno-entrante-anuncia-retiro-inmediato-de-139-querellas-por-ley-de-seguridad-del-estado/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Imágenes del estallido social: las fotos que dejaron las ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2023/10/18/imagenes-del-estallido-social-las-fotos-que-dejaron-las-movilizaciones-a-partir-del-18-o/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Filme sobre del estallido social gana en Festival ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "14 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2023/10/14/filme-sobre-del-estallido-social-gana-en-festival-internacional-de-cine-de-valdivia/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Fiscal Nacional Económico: “Los abusos empresariales ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Aug 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/08/17/fiscal-nacional-economico-los-abusos-empresariales-fueron-una-de-las-causas-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Chambonada de Interior: reconocen que correos de Galli ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/10/18/chambonada-de-interior-reconocen-que-correos-de-galli-durante-el-estallido-social-no-fueron-borrados/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Se va otro piñerista de La Moneda: Rodrigo Ubilla ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "16 Dec 2019",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2019/12/16/se-va-otro-pinerista-de-la-moneda-rodrigo-ubilla-renuncia-a-la-subsecretaria-del-interior/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Galería CIMA: el valor histórico de un registro visual ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/10/17/galeria-cima-el-valor-historico-de-un-registro-visual-ininterrumpido-desde-el-estallido-a-visperas-del-plebiscito/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Siga en vivo la cuarta conmemoración del estallido social ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2023/10/18/siga-en-vivo-la-cuarta-conmemoracion-del-estallido-social-desde-plaza-italia/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Créditos hipotecarios de octubre 2022: el análisis ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "25 Oct 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/10/25/creditos-hipotecarios-de-octubre-2022-el-analisis-comparativo-a-3-anos-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Reapareció el general Iturriaga: Piñera lo nombra como ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "13 Nov 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2020/11/13/reaparecio-el-general-iturriaga-pinera-lo-nombra-como-nuevo-jefe-del-estado-mayor-conjunto/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Chas Gerretsen, el holandés que fotografió Chile antes del ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "11 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/02/11/chas-gerretsen-el-holandes-que-fotografio-chile-antes-del-golpe-y-cuyas-imagenes-reviven-tras-el-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Sancionan a Paula Daza por vulnerar el derecho ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "6 Dec 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2021/12/06/sancionan-a-paula-daza-por-vulnerar-el-derecho-fundamental-de-acceso-a-la-informacion-durante-el-estallido-social-y-la-pandemia/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Estación de Metro Laguna Sur abrió sus puertas luego de ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "7 Sep 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/multimedia/2020/09/07/estacion-de-metro-laguna-sur-abrio-sus-puertas-luego-de-sufrir-severos-danos-tras-el-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Cuando el dolor se hace presente: la crisis de la salud ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "8 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/02/08/cuando-el-dolor-se-hace-presente-la-crisis-de-la-salud-mental-en-chile-en-contexto-de-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Fotógrafos independientes chilenos inauguran en Berlín ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "8 Jul 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2021/07/08/fotografos-independientes-chilenos-inauguran-en-berlin-muestra-sobre-el-estallido/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Filósofa Olga Grau y la conexión entre el estallido social y ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "31 Mar 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/03/31/filosofa-olga-grau-y-la-conexion-entre-el-estallido-social-y-la-pandemia-pensar-lo-impensable-es-un-desafio-imprescindible/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Chile entre dos derechas",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "12 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/10/12/chile-entre-dos-derechas/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "“Mi país imaginario”, de Patricio Guzmán, fue ovacionada ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "20 May 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/05/20/pelicula-de-patricio-guzman-sobre-el-estallido-social-tendra-estreno-mundial-en-cannes-2/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "DDHH: Boric anuncia Plan Nacional de Búsqueda de ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "1 Jun 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/06/01/ddhh-boric-anuncia-plan-nacional-de-busqueda-de-dddd-y-agenda-integral-de-verdad-justicia-y-reparacion-a-victimas-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "#LaNoCelebración: Los Ojos De Chile lanza campaña ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/10/18/lanocelebracion-los-ojos-de-chile-lanza-campana-virtual-con-el-simbolo-de-las-manifestaciones-de-2019/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Cuarto suicidio de víctima de trauma ocular abre flanco en ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "6 Jul 2023",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/pais/2023/07/06/cuarto-suicidio-de-victima-de-trauma-ocular-abre-flanco-en-la-moneda/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Las crisis no previstas 2019-2021",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "25 May 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/columnas/2021/05/25/las-crisis-no-previstas-2019-2021/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Escritora Elizabeth Subercaseaux: «Los estallidos son ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "9 Dec 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/12/09/escritora-elizabeth-subercaseaux-los-estallidos-son-empujones-que-le-da-el-pueblo-a-la-historia/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Jóvenes y participación: desafíos y oportunidades frente al ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Nov 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/columnas/2020/11/18/jovenes-y-participacion-desafios-y-oportunidades-frente-al-proceso-constituyente/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Tribunal absuelve a cuatro acusados por incendio de ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "3 Nov 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2021/11/03/tribunal-absuelve-a-cuatro-acusados-por-incendio-de-municipalidad-de-quilpue-en-el-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Ciberataque al Estado Mayor Conjunto en RRSS: ministra ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "22 Sep 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2022/09/22/ciberataque-al-estado-mayor-conjunto-en-rrss-ministra-maya-fernandez-es-la-autoridad-mas-cuestionada-en-twitter/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "[FOTOS] Manifestaciones derivan en serios disturbios ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "23 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/dia/2020/02/23/fotos-manifestaciones-derivan-en-serios-disturbios-en-las-afueras-del-hotel-ohiggins-a-horas-de-comenzar-el-festival-de-vina/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "UTEM participa en rescate de trabajo de mujeres arpilleras ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "14 Nov 2022",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2022/11/14/utem-participa-en-rescate-de-trabajo-de-mujeres-arpilleras-sobre-el-estallido-social-de-octubre-de-2019/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Siga la transmisión en vivo de Galería Cima sobre Plaza ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "18 Oct 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/multimedia/2021/10/18/siga-la-transmision-en-vivo-de-galeria-cima-sobre-plaza-italia-en-el-segundo-aniversario-del-estallido-social/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Diferencia de ideas sobre el estallido social entre Diana ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "5 Feb 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/multimedia/2020/02/05/diferencia-de-ideas-sobre-el-estallido-social-entre-diana-bolocco-y-daniel-alcaino-genero-gran-debate-en-redes-sociales/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "El «Plan Zeta» de Piñera: el informe de la DINE sobre ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "21 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/destacado/2020/10/21/el-plan-zeta-de-pinera-el-informe-de-la-dine-sobre-la-amenaza-extranjera-que-hizo-que-el-presidente-hablara-de-guerra-2/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "Fotógrafo Javier Vergara gana mención en Lens Critics' ...",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "27 Aug 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/08/27/fotografo-javier-vergara-gana-mencion-en-lens-critics-choice-award/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "La peligrosa ignorancia de las élites",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "4 Jun 2021",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/noticias/opinion/columnas/2021/06/04/la-peligrosa-ignorancia-de-las-elites-desigualdad-malestar-y-proceso-constituyente/"
+      },
+      {
+          "newscast": "El Mostrador",
+          "title": "donación de editores irá en beneficio de Fabiola Campillai",
+          "description": "",
+          "category": "The site does not provide a category",
+          "date": "17 Oct 2020",
+          "image_link": "not found initially",
+          "author": "not found initially",
+          "link": "https://www.elmostrador.cl/cultura/2020/10/17/lanzan-libro-de-fotoperiodismo-que-registro-primeros-meses-del-estallido-social-donacion-de-editores-ira-en-beneficio-de-fabiola-campillai/"
+      }
+  ]
 }

@@ -1,6 +1,10 @@
 # Fondecyt Project - Data Collection
 
-Range of interest: November 15, 2019 to December 17, 2023.
+Rango de interés: 15 de noviembre del 2019 al 17 de Diciembre del 2023 
+
+## Datos finales
+
+Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
 
 ## Medios de Comunicación
 
@@ -93,6 +97,7 @@ Range of interest: November 15, 2019 to December 17, 2023.
 ---
 ## Estructura de Directorios
 
+```
 📁src/
 ├─ 📁archive/
 │  ├─ 📁historial/
@@ -100,13 +105,12 @@ Range of interest: November 15, 2019 to December 17, 2023.
 │  ├─ 📁temp/
 ├─ 📁pages_extracted/
 ├─ 📁extract_code/
+```
 
-### Descripción de Directorios
 - **src → archive**: Corresponde a archivos .json con información extraída.
 - **src → archive → historial**: Conjuntos de archivos .json historicos, esto como respaldo.
 - **src → archive → pages_extracted**: Conjunto final de datos separados en carpetas según cada medio de noticias.
 - **src → archive → temp**: Conjuntos de Archivos .json temporales, utilizados para pruebas sobre un conjunto de datos.
 - **src → extract_code**: Conjunto de archivos .ipynb utilizados para la extracción de noticias. Cada noticiero corresponde a un archivo .ipynb individual.
-
 
 

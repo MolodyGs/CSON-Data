@@ -1,30 +1,30 @@
 # Chile Social Outbreak Dataset
 
-Rango de interés: 15 de noviembre del 2019 al 17 de Diciembre del 2023 
+Interest range: November 15, 2019 – December 17, 2023
 
-## Datos finales
+## Final Data
 
-Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
+The final data is located in the directory: `src/archive/DATA.json`.
 
 ## Medio de Comunicación y Sesgo
 
-| Medio de Comunicación | Ideología/Descripción                                                                                      | Fuente                         |
-| --------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| El Mercurio           | Derecha, Conservadurismo, Conservadurismo liberal, Liberalismo económico                                   | [Fuente][El Mercurio]          |
-| La Cuarta             | Sensacionalista, dirigido a un público de estratos socioeconomicos medios y bajos                          | [Fuente][La Cuarta]            |
-| The Clinic            | Izquierda                                                                                                  | [Fuente][The Clinic]           |
-| CNN en Español        | _Sin datos claros_                                                                                         | ...                            |
-| Diario Financiero     | Centroderecha, Conservadurismo liberal, Liberalismo económico, Liberalismo conservador                     | [Fuente][Diario Financiero]    |
-| La Segunda            | derecha, Ideología política Conservadurismo, Liberalismo económico, Liberalismo conservador, Anticomunismo | [Fuente][La Segunda]           |
-| La Tercera            | Conservadurismo moderado, liberalismo clásico, derecha                                                     | [Fuente][La Tercera]           |
-| Las Últimas Noticias  | Derecha                                                                                                    | [Fuente][Las Ultimas Noticias] |
-| HoyxHoy               | Generalista                                                                                                | [Fuente][HoyxHoy]              |
-| Ciper                 | Independiente                                                                                              | [Fuente][Ciper]                |
-| EMOL                  | Conservadurismo, derecha                                                                                   | [Fuente][EMOL]                 |
-| Ex-Ante               | _Sin datos claros_                                                                                         | ...                            |
-| El Mostrador          | Pluralismo                                                                                                 | [Fuente][El Mostrador]         |
-| El País               | Centroizquierda                                                                                            | [Fuente][El Pais]              |
-| Gamba                 | _Sin datos claros_                                                                                         | ...                            |
+| Media Outlet         | Ideology/Description                                                                   | Source                         |
+| -------------------- | -------------------------------------------------------------------------------------- | ------------------------------ |
+| El Mercurio          | Right-wing, Conservatism, Liberal Conservatism, Economic Liberalism                    | [Source][El Mercurio]          |
+| La Cuarta            | Sensationalist, aimed at middle- and lower-class audiences                             | [Source][La Cuarta]            |
+| The Clinic           | Left-wing                                                                              | [Source][The Clinic]           |
+| CNN en Español       | _No clear data_                                                                        | ...                            |
+| Diario Financiero    | Center-right, Liberal Conservatism, Economic Liberalism, Conservative Liberalism       | [Source][Diario Financiero]    |
+| La Segunda           | Right-wing, Conservatism, Economic Liberalism, Conservative Liberalism, Anti-communism | [Source][La Segunda]           |
+| La Tercera           | Moderate conservatism, Classical liberalism, Right-wing                                | [Source][La Tercera]           |
+| Las Últimas Noticias | Right-wing                                                                             | [Source][Las Ultimas Noticias] |
+| HoyxHoy              | Generalist                                                                             | [Source][HoyxHoy]              |
+| Ciper                | Independent                                                                            | [Source][Ciper]                |
+| EMOL                 | Conservatism, Right-wing                                                               | [Source][EMOL]                 |
+| Ex-Ante              | _No clear data_                                                                        | ...                            |
+| El Mostrador         | Pluralism                                                                              | [Source][El Mostrador]         |
+| El País              | Center-left                                                                            | [Source][El Pais]              |
+| Gamba                | _No clear data_                                                                        | ...                            |
 
 [El Mostrador]: https://es.wikipedia.org/wiki/El_Mostrador
 [La Cuarta]: https://es.wikipedia.org/wiki/La_Cuarta
@@ -39,28 +39,27 @@ Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
 [El Mercurio]: https://es.wikipedia.org/wiki/El_Mercurio
 [El Pais]: https://es.wikipedia.org/wiki/El_Pa%C3%ADs
 
-## Actividad y Resultados
+## Activity and Results
 
-| Medio de Comunicación | Datos                |
-| --------------------- | -------------------- |
-| El Mercurio           | No permite el acceso |
-| La Cuarta             | 153                  |
-| The Clinic            | 75                   |
-| CNN en Español        | 28                   |
-| Diario Financiero     | No permite el acceso |
-| La Segunda            | No permite el acceso |
-| La Tercera            | 236                  |
-| Las Últimas Noticias  | No permite el acceso |
-| La Segunda            | No permite el acceso |
-| Ciper                 | 16                   |
-| EMOL                  | 153                  |
-| Ex-Ante               | 65                   |
-| El Mostrador          | 86                   |
-| El País               | 102                  |
-| Gamba                 | 17                   |
+| Media Outlet         | Data                     |
+| -------------------- | ------------------------ |
+| El Mercurio          | Access not allowed       |
+| La Cuarta            | 153                      |
+| The Clinic           | 75                       |
+| CNN en Español       | 28                       |
+| Diario Financiero    | SourceAccess not allowed |
+| La Segunda           | SourceAccess not allowed |
+| La Tercera           | 236                      |
+| Las Últimas Noticias | SourceAccess not allowed |
+| La Segunda           | SourceAccess not allowed |
+| Ciper                | 16                       |
+| EMOL                 | 153                      |
+| Ex-Ante              | 65                       |
+| El Mostrador         | 86                       |
+| El País              | 102                      |
+| Gamba                | 17                       |
 
----
-## Estructura de Directorios
+## Directory Structure
 
 ```
 📁src/
@@ -72,10 +71,10 @@ Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
 ├─ 📁extract_code/
 ```
 
-- **src → archive**: Corresponde a archivos .json con información extraída.
-- **src → archive → historial**: Conjuntos de archivos .json historicos, esto como respaldo.
-- **src → archive → pages_extracted**: Conjunto datos separados en carpetas según cada medio de noticias para su analisis.
-- **src → archive → temp**: Conjuntos de Archivos .json temporales, utilizados para pruebas sobre un conjunto de datos.
-- **src → extract_code**: Conjunto de archivos .ipynb utilizados para la extracción de noticias. Cada noticiero corresponde a un archivo .ipynb individual.
+- **src → archive**: Contains .json files with extracted information.
+- **src → archive → historial**: Sets of historical .json files kept as backup.
+- **src → archive → pages_extracted**: Dataset divided into folders by news outlet for analysis.
+- **src → archive → temp**: Temporary .json files used for testing on subsets of data.
+- **src → extract_code**: Collection of .ipynb files used for news extraction. Each outlet corresponds to an individual notebook.
 
 

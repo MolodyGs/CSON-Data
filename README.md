@@ -1,4 +1,4 @@
-# Fondecyt Project - Data Collection
+# CSON Data Collection
 
 Rango de interés: 15 de noviembre del 2019 al 17 de Diciembre del 2023 
 

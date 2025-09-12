@@ -25,12 +25,12 @@ google_classes = {
 
 def extract_articles_from_google(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social", robust: bool = True):
     if robust:
-        robust_extract_process(website, newscast, pages, filename, keywords)
+        robust_extract_articles_process(website, newscast, pages, filename, keywords)
     else:
-        extract_process(website, newscast, pages, filename, keywords)
+        extract_articles(website, newscast, pages, filename, keywords)
 
 # Standard extraction process without retries
-def extract_process(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social", ):
+def extract_articles(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social", ):
 	"""
     Standard extraction process without retries
     Parameters:
@@ -110,7 +110,7 @@ def extract_process(website: str, newscast: str, pages: int, filename: str, keyw
 			driver.quit()
 
 	# Save the extracted information
-	print(f"[INFO] Storing information in JSON file at [{filename}.json]")
+	print(f"\n[INFO] Storing information in JSON file at [{filename}.json]")
 	with open(f"{filename}.json", "w", encoding="utf-8") as file:
 		json.dump(json_pages, file, ensure_ascii=False, indent=4)
 
@@ -124,8 +124,12 @@ def extract_data_from_page(
 	extracted_pages = {"pages": []}
 	extracted_pages_with_content = {"pages": []}
 
+	print(f"[INFO] Input file: {input_file}")
+	print(f"[INFO] Output file: {output_file}")
+	print(f"[INFO] Limit of pages to process: {limit_of_pages}")
+
     # Load the extracted pages from the input JSON file
-	print("[INFO] Loading extracted pages from JSON file...")
+	print("\n[INFO] Loading extracted pages from JSON file...")
 	with open(input_file, 'r', encoding='utf-8') as file:
 		extracted_pages = json.load(file)
 
@@ -171,9 +175,13 @@ def extract_data_from_page(
 			driver.quit()
 
 		except Exception as e:
+			page["content"] = "[ERROR] Content could not be extracted due to an error"
+			page["author"] = "[ERROR] Author could not be extracted due to an error"
+			page["description"] = "[ERROR] Description could not be extracted due to an error"
+			extracted_pages_with_content["pages"].append(page)
 			print(f"[ERROR] An error occurred while processing page {page_index}: {e}")
 
-def robust_extract_process(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social"):
+def robust_extract_articles_process(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social"):
 	print("[INFO] Starting extraction process from Google...")
 	print("[INFO] Website:", website)
 	print("[INFO] Newscast:", newscast)
@@ -194,44 +202,43 @@ def robust_extract_process(website: str, newscast: str, pages: int, filename: st
 	locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")
 	for page in range(0, pages):
 		print(f"[INFO] Checking Google page | Page Index: {page}")
+		try: 
+			options = uc.ChromeOptions()
+			options.add_argument("--no-sandbox")
+			options.add_argument("--disable-blink-features=AutomationControlled")
+			driver = uc.Chrome(options=options)
+			url = (f"https://www.google.com/search?q=%22{keywords.replace(' ', '+').lower()}%22+site%3A{website}&tbs=cdr:1,cd_min:11/15/2019,cd_max:12/17/2023&start={page * 10}").strip()
+			print(f"\n[INFO] Google URL: {url}")
+			driver.get(url)
 
-		max_retries = 3
-		for attempt in range (0, max_retries):
-			try: 
-				options = uc.ChromeOptions()
-				options.add_argument("--no-sandbox")
-				options.add_argument("--disable-blink-features=AutomationControlled")
-				driver = uc.Chrome(options=options)
-				url = (f"https://www.google.com/search?q=%22{keywords.replace(' ', '+').lower()}%22+site%3A{website}&tbs=cdr:1,cd_min:11/15/2019,cd_max:12/17/2023&start={page * 10}").strip()
-				print(f"\n[INFO] Google URL: {url}")
-				driver.get(url)
+			articles_section = WebDriverWait(driver, 10).until(
+				EC.presence_of_element_located((By.CLASS_NAME, "dURPMd"))
+			)
+			articles = articles_section.find_elements(By.CLASS_NAME, "MjjYud")
 
-				articles_section = WebDriverWait(driver, 10).until(
-					EC.presence_of_element_located((By.CLASS_NAME, "dURPMd"))
-				)
-				articles = articles_section.find_elements(By.CLASS_NAME, "MjjYud")
-
-				print(f"[INFO] {len(articles)} articles found")
-				for i, article in enumerate(articles):
+			print(f"[INFO] {len(articles)} articles found")
+			for i, article in enumerate(articles):
+				max_retries = 3
+				for attempt in range (0, max_retries):
 					print(f"\n[INFO] Checking article... | Article Index {i}")
 					try: 
 						# check if the article is from the website
 						# sometimes google shows articles that are not from the website
 						if (not (website in article.text)):
 							print(f"[INFO] The article is not from {website}. Skipping...")
-							continue
-   
+							break
+
 						# extract article date
 						originalDate = article.find_element(By.CLASS_NAME, "YrbPuc").find_element(By.TAG_NAME, "span").text
 						day, mon_str, year = originalDate.split()
 						month = months[mon_str]
 						date_obj = datetime(int(year), month, int(day))
 						date_epoch = int(date_obj.timestamp())
-      
+	
 						# check if the date is between 15/11/2019 and 17/12/2023
 						if (date_epoch < 1573786800 or date_epoch > 1702782000):
 							print(f"[INFO] The article date is out of range (15/11/2019 - 17/12/2023). Skipping...")
-							continue
+							break
 
 						# extract title, description and link
 						print(f"[INFO] Extracting title, description and link...")
@@ -255,44 +262,42 @@ def robust_extract_process(website: str, newscast: str, pages: int, filename: st
 
 						json_pages["pages"].append(link_info)
 						articles_successfully_extracted += 1
-						continue
-  
-					except Exception as e:
-						print(f"[ERROR] A error occurred while extracting data from a article. Skipping article.")
-						print(f"[ERROR] Error message: {e}")
-						articles_failed_extraction += 1
-						continue
-  
-			except Exception as e:
-				print(f"[ERROR] A error occurred while processing search result. Page index: {page}")
-				print(f"[ERROR] Google result URL: {url}")
-				print(f"[ERROR] Error message: {e}")
+						break
 
-				# Retry logic
-				if attempt < max_retries - 1:
-					time.sleep(2)
-					print(f"[INFO] Retrying... (Attempt {attempt + 1} of {max_retries})")
-					driver.quit()
-					continue
-				else:
-					driver.quit()
-					page_fatal_error = True
-					break
-			finally:
-				# Ensure the driver is closed properly
-				try:
-					driver.quit()
-				except:
-					pass
- 
-		if page_fatal_error:
-			page_fatal_error = False
-			pages_failed += 1
-		else:
-			pages_succeeded += 1
+					except Exception as e:
+						print(f"[ERROR] A error occurred while processing search result. Page index: {page}")
+						print(f"[ERROR] Google result URL: {url}")
+						print(f"[ERROR] Error message: {e}")
+
+						# Retry logic
+						if attempt < max_retries - 1:
+							time.sleep(2)
+							print(f"[INFO] Retrying... (Attempt {attempt + 1} of {max_retries})")
+							continue
+						else:
+							print(f"[ERROR] A error occurred while extracting data from a article. Skipping article.")
+							print(f"[ERROR] Error message: {e}")
+							articles_failed_extraction += 1
+							break
+   
+		except Exception as e:
+			print(f"[ERROR] A fatal error occurred while processing search result. Page index: {page}")
+			print(f"[ERROR] Google result URL: {url}")
+			print(f"[ERROR] Error message: {e}")
+			page_fatal_error = True
+			continue
+
+		finally:
+			if page_fatal_error:
+				page_fatal_error = False
+				pages_failed += 1
+			else:   
+				pages_succeeded += 1
+			driver.quit()
+
 
 	# Save the extracted information
-	print(f"[INFO] Storing information in JSON file at [{filename}.json]")
+	print(f"\n[INFO] Storing information in JSON file at [{filename}.json]")
 	with open(f"{filename}.json", "w", encoding="utf-8") as file:
 		json.dump(json_pages, file, ensure_ascii=False, indent=4)
 						

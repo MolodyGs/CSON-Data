@@ -1,67 +1,30 @@
-# CSON Data Collection
+# Chile Social Outbreak Dataset
 
-Rango de interés: 15 de noviembre del 2019 al 17 de Diciembre del 2023 
+Interest range: November 15, 2019 – December 17, 2023
 
-## Datos finales
+## Final Data
 
-Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
+The final data is located in the directory: `src/archive/DATA.json`.
 
-## Medios de Comunicación
+## Medio de Comunicación y Sesgo
 
-### En Español
-
-#### Medios Físicos
-
-- El Mercurio
-- La Cuarta
-- The Clinic
-- CNN en Español
-- Diario Financiero
-- La Segunda
-- La Tercera
-- Las Últimas Noticias
-- Publimetro
-- HoyxHoy
-
-#### Medios Electrónicos
-
-- Ciper
-- EMOL
-- Ex-Ante
-- El Mostrador
-- Ladera Sur
-
-[Fuente de Medios](https://es.wikipedia.org/wiki/Medios_de_comunicaci%C3%B3n_en_Chile#Electr%C3%B3nicos)
-
-### En Inglés
-
-- AP News
-- Reuters
-- BBC
-- CNN
-
-### Otros
-
-- El País
-
-## Sesgo
-
-| Medio de Comunicación | Ideología/Descripción                                                                                      | Fuente                         |
-| --------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| El Mercurio           | Derecha, Conservadurismo, Conservadurismo liberal, Liberalismo económico                                   | [Fuente][El Mercurio]          |
-| La Cuarta             | Sensacionalista, dirigido a un público de estratos socioeconomicos medios y bajos                          | [Fuente][La Cuarta]            |
-| The Clinic            | Izquierda                                                                                                  | [Fuente][The Clinic]           |
-| CNN en Español        | _Sin datos claros_                                                                                         | ...                            |
-| Diario Financiero     | Centroderecha, Conservadurismo liberal, Liberalismo económico, Liberalismo conservador                     | [Fuente][Diario Financiero]    |
-| La Segunda            | derecha, Ideología política Conservadurismo, Liberalismo económico, Liberalismo conservador, Anticomunismo | [Fuente][La Segunda]           |
-| La Tercera            | Conservadurismo moderado, liberalismo clásico, derecha                                                     | [Fuente][La Tercera]           |
-| Las Últimas Noticias  | Derecha                                                                                                    | [Fuente][Las Ultimas Noticias] |
-| HoyxHoy               | Generalista                                                                                                | [Fuente][HoyxHoy]              |
-| Ciper                 | Independiente                                                                                              | [Fuente][Ciper]                |
-| EMOL                  | Conservadurismo, derecha                                                                                   | [Fuente][EMOL]                 |
-| Ex-Ante               | _Sin datos claros_                                                                                         | ...                            |
-| El Mostrador          | Pluralismo                                                                                                 | [Fuente][El Mostrador]         |
-| El País               | Centroizquierda                                                                                            | [Fuente][El Pais]              |
+| Media Outlet         | Ideology/Description                                                                                                                                         |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| El Mercurio          | Right-wing politics. Conservative-liberal vision, mainly aimed at business sectors, politicians, and Chilean elites.                                         |
+| La Cuarta            | Right-wing politics. Popular and sensationalist focus, mainly aimed at workers, middle, and lower classes.                                                   |
+| The Clinic           | Left-wing politics. Progressive-critical line, oriented towards young people, university students, and urban sectors with an alternative political outlook.  |
+| CNN en Español       | Liberal-centrist editorial line, aimed at a Latin American audience interested in politics, economy, and current affairs.                                    | ... |
+| Diario Financiero    | Pro-market liberal vision, oriented towards businesspeople, executives, investors, and economic decision-makers.                                             |
+| La Segunda           | Right-wing politics. Conservative-liberal line, focused on professionals, politicians, and businesspeople.                                                   |
+| La Tercera           | Right-wing politics. Liberal-centrist line, aimed at middle classes, professionals, academics, and readers of national politics.                             |
+| Las Últimas Noticias | Right-wing politics. Entertainment and apolitical focus, aimed at a mass, young, and digital consumer audience.                                              |
+| HoyxHoy              | Right-wing politics. Citizen and neutral focus, oriented towards an urban, young audience and public transport users.                                        |
+| Ciper                | Independent. Critical line, aimed at those interested in investigative journalism, transparency, and Chilean politics.                                       |
+| EMOL                 | Right-wing politics. Centrist-liberal editorial line, aimed at a general audience, professionals, academics, and readers of national and international news. |
+| Ex-Ante              | Center-right politics. Analytical and critical focus, directed at politicians, professionals, businesspeople, and readers of national political affairs.     | ... |
+| El Mostrador         | Pluralist. Progressive and independent line, directed at urban readers, young people, academics, and politically engaged Chileans.                           |
+| El País              | Center-left politics. Progressive and critical focus, aimed at an international audience and readers interested in global politics.                          |
+| Gamba                | _No clear data_                                                                                                                                              | ... |
 
 [El Mostrador]: https://es.wikipedia.org/wiki/El_Mostrador
 [La Cuarta]: https://es.wikipedia.org/wiki/La_Cuarta
@@ -76,26 +39,27 @@ Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
 [El Mercurio]: https://es.wikipedia.org/wiki/El_Mercurio
 [El Pais]: https://es.wikipedia.org/wiki/El_Pa%C3%ADs
 
-## Actividad y Resultados
+## Activity and Results
 
-| Medio de Comunicación | Estado                | Comentario                                                                                                                                                                                                                                                                                                                  |
-| --------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| El Mercurio           | No permite el acceso  | No despliega la información, necesita de un inicio de sesión.                                                                                                                                                                                                                                                                 |
-| La Cuarta             | Pendiente             | -                                                                                                                                                                                                                                                                                                                           |
-| The Clinic            | Pendiente  | 403 Forbbiden. Se procede con métodos más discretos para evitar la detección.                                                                                                                                                                                                                                                                                                              |
-| CNN en Español        | Pendiente              | El desglose de las noticias encontradas no son lo suficientemente extensas.                                                                                                                                                                                                                                                 |
-| Diario Financiero     | No permite el acceso  | El diario financiero utiliza distintos métodos para evitar el web scraping. Inclusive evita la apertura del código fuente y no permite mostrar las opciones al hacer click derecho, entre otras técnicas. [Reddit al respecto](https://www.reddit.com/r/DataHoarder/comments/17jx5ia/how_are_we_supposed_to_counter_this/). |
-| La Segunda            | No permite el acceso  | No muestra la información, requiere suscripción.                                                                                                                                                                                                                                                                            |
-| La Tercera            | Datos Obtenidos!      | 269 datos.                                                                                                                                                                                                                                                                                                                   |
-| Las Últimas Noticias  | Pendiente de revisión | La información desplegada en cada noticia es presentada en un formato de diario. El sitio web no permite realizar búsquedas de información. La utilización de herramientas avanzadas con google no presenta resultados favorables.                                                                                          |
-| HoyxHoy               | Sitio web inestable   | El sitio web no responde efectivamente a la búsqueda de información. El sitio presenta las noticias como imágenes de diarios.                                                                                                                                                                                             |
-| Ciper                 | Datos obtenidos!      | 25 datos.                                                                                                                                                                                                                                                                                                                   |
-| EMOL                  | Datos obtenidos!      | 215 datos.                                                                                                                                                                                                                                                                                                                  |
-| Ex-Ante               | Datos obtenidos!             | 99 datos.                                                                                                                                                                                                                                |
-| El Mostrador          | Datos obtenidos!      | 99 datos.                                                                                                                                                                                                                                                                                                                   |
-| El País               | En Proceso            | 128 datos.                                                                                                                                                                                                                                                                                                                   |
----
-## Estructura de Directorios
+| Media Outlet         | Data               |
+| -------------------- | ------------------ |
+| El Mercurio          | Access not allowed |
+| La Cuarta            | 153                |
+| The Clinic           | 75                 |
+| CNN en Español       | 28                 |
+| Diario Financiero    | Access not allowed |
+| La Segunda           | Access not allowed |
+| La Tercera           | 236                |
+| Las Últimas Noticias | Access not allowed |
+| La Segunda           | Access not allowed |
+| Ciper                | 16                 |
+| EMOL                 | 153                |
+| Ex-Ante              | 65                 |
+| El Mostrador         | 86                 |
+| El País              | 102                |
+| Gamba                | 17                 |
+
+## Directory Structure
 
 ```
 📁src/
@@ -107,10 +71,10 @@ Los datos finales se encuentra en el directorio: `src/archive/DATA.json`.
 ├─ 📁extract_code/
 ```
 
-- **src → archive**: Corresponde a archivos .json con información extraída.
-- **src → archive → historial**: Conjuntos de archivos .json historicos, esto como respaldo.
-- **src → archive → pages_extracted**: Conjunto final de datos separados en carpetas según cada medio de noticias.
-- **src → archive → temp**: Conjuntos de Archivos .json temporales, utilizados para pruebas sobre un conjunto de datos.
-- **src → extract_code**: Conjunto de archivos .ipynb utilizados para la extracción de noticias. Cada noticiero corresponde a un archivo .ipynb individual.
+- **src → archive**: Contains .json files with extracted information.
+- **src → archive → historial**: Sets of historical .json files kept as backup.
+- **src → archive → pages_extracted**: Dataset divided into folders by news outlet for analysis.
+- **src → archive → temp**: Temporary .json files used for testing on subsets of data.
+- **src → extract_code**: Collection of .ipynb files used for news extraction. Each outlet corresponds to an individual notebook.
 
 

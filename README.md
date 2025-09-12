@@ -6,7 +6,7 @@ Interest range: November 15, 2019 – December 17, 2023
 
 The final data is located in the directory: `src/archive/DATA.json`.
 
-## Medio de Comunicación y Sesgo
+## Media Outlet and Ideology
 
 | Media Outlet         | Ideology/Description                                                                                                                                         |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

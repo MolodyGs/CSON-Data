@@ -23,11 +23,11 @@ google_classes = {
     "description": "kb0PBd"
     }
 
-def extract_articles_from_google(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social", robust: bool = True):
+def extract_articles_from_google(website: str, newscast: str, pages: int, output: str, keywords: str = "Estallido Social", robust: bool = True):
     if robust:
-        robust_extract_articles_process(website, newscast, pages, filename, keywords)
+        robust_extract_articles_process(website, newscast, pages, output, keywords)
     else:
-        extract_articles(website, newscast, pages, filename, keywords)
+        extract_articles(website, newscast, pages, output, keywords)
 
 # Standard extraction process without retries
 def extract_articles(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social", ):
@@ -166,22 +166,23 @@ def extract_data_from_page(
 			page["description"] = description
 			extracted_pages_with_content["pages"].append(page)
 
+			# Close the driver
+			driver.quit()
+
+		except Exception as e:
+			print(f"[ERROR] An error occurred while processing page {page_index}: {e}")
+			page["content"] = "[ERROR] Content could not be extracted due to an error"
+			page["author"] = "[ERROR] Author could not be extracted due to an error"
+			page["description"] = "[ERROR] Description could not be extracted due to an error"
+			extracted_pages_with_content["pages"].append(page)
+
+		finally:
 			# Save the extracted information to the output JSON file after each page
 			print("[INFO] Storing information in a JSON file...")
 			with open(output_file, 'w', encoding='utf-8') as file:
 				json.dump(extracted_pages_with_content, file, ensure_ascii=False, indent=4)
 
-			# Close the driver
-			driver.quit()
-
-		except Exception as e:
-			page["content"] = "[ERROR] Content could not be extracted due to an error"
-			page["author"] = "[ERROR] Author could not be extracted due to an error"
-			page["description"] = "[ERROR] Description could not be extracted due to an error"
-			extracted_pages_with_content["pages"].append(page)
-			print(f"[ERROR] An error occurred while processing page {page_index}: {e}")
-
-def robust_extract_articles_process(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social"):
+def robust_extract_articles_process(website: str, newscast: str, pages: int, output: str, keywords: str = "Estallido Social"):
 	print("[INFO] Starting extraction process from Google...")
 	print("[INFO] Website:", website)
 	print("[INFO] Newscast:", newscast)
@@ -189,7 +190,7 @@ def robust_extract_articles_process(website: str, newscast: str, pages: int, fil
 	print("[INFO] Keywords:", keywords)
 
 	json_pages = {"pages": []}
-	filename = filename.split(".")[0]
+	output = output.split(".")[0]
 	keywords = keywords.replace(" ", "+").lower()
 	url = f"https://www.google.com/search?q=%22{keywords}%22+site%3A{website}&tbs=cdr:1,cd_min:11/15/2019,cd_max:12/17/2023&start="
 
@@ -198,6 +199,10 @@ def robust_extract_articles_process(website: str, newscast: str, pages: int, fil
 	pages_succeeded = 0
 	pages_failed = 0
 	page_fatal_error = False
+
+	if output == "":
+		print("[ERROR] Output filename cannot be empty.")
+		return 
 
 	locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")
 	for page in range(0, pages):
@@ -297,8 +302,8 @@ def robust_extract_articles_process(website: str, newscast: str, pages: int, fil
 
 
 	# Save the extracted information
-	print(f"\n[INFO] Storing information in JSON file at [{filename}.json]")
-	with open(f"{filename}.json", "w", encoding="utf-8") as file:
+	print(f"\n[INFO] Storing information in JSON file at [{output}.json]")
+	with open(f"{output}.json", "w", encoding="utf-8") as file:
 		json.dump(json_pages, file, ensure_ascii=False, indent=4)
 						
 	# ----------------- Stats -----------------

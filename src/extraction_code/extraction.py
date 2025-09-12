@@ -119,7 +119,9 @@ def extract_data_from_page(
     get_description: Callable[[WebElement], str],
     get_content: Callable[[WebElement], str],
     input_file, output_file,
-    limit_of_pages: int = 1):
+    before_func: Callable[[], any] = None,
+    limit_of_pages: int = 1,
+    wait=20):
 
 	extracted_pages = {"pages": []}
 	extracted_pages_with_content = {"pages": []}
@@ -149,9 +151,10 @@ def extract_data_from_page(
 			options.add_argument("--no-sandbox")
 			options.add_argument("--disable-blink-features=AutomationControlled")
 			driver = uc.Chrome(options=options)
-			driver.set_page_load_timeout(20)
+			driver.set_page_load_timeout(wait)
 			driver.get(page['link'])
-			body=WebDriverWait(driver, 20).until(
+			driver = before_func(driver) if before_func is not None else driver
+			body=WebDriverWait(driver, wait).until(
 				EC.presence_of_element_located((By.TAG_NAME, 'body'))
 			)
 
@@ -166,8 +169,6 @@ def extract_data_from_page(
 			page["description"] = description
 			extracted_pages_with_content["pages"].append(page)
 
-			# Close the driver
-			driver.quit()
 
 		except Exception as e:
 			print(f"[ERROR] An error occurred while processing page {page_index}: {e}")
@@ -177,6 +178,9 @@ def extract_data_from_page(
 			extracted_pages_with_content["pages"].append(page)
 
 		finally:
+			# Close the driver
+			driver.quit()
+    
 			# Save the extracted information to the output JSON file after each page
 			print("[INFO] Storing information in a JSON file...")
 			with open(output_file, 'w', encoding='utf-8') as file:

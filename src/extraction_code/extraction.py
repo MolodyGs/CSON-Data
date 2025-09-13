@@ -119,7 +119,7 @@ def extract_data_from_page(
     get_description: Callable[[WebElement], str],
     get_content: Callable[[WebElement], str],
     input_file, output_file,
-    before_func: Callable[[], any] = None,
+    before: Callable[[], any] = None,
     limit_of_pages: int = 1,
     wait=20):
 
@@ -141,7 +141,7 @@ def extract_data_from_page(
 
 		# Check if the limit of pages to process has been reached
 		if page_index >= limit_of_pages:
-			print("[INFO] Limit of pages reached.")
+			print("\n[INFO] Limit of pages reached.")
 			break
 
 		# Process the page
@@ -153,7 +153,7 @@ def extract_data_from_page(
 			driver = uc.Chrome(options=options)
 			driver.set_page_load_timeout(wait)
 			driver.get(page['link'])
-			driver = before_func(driver) if before_func is not None else driver
+			driver = before(driver) if before is not None else driver
 			body=WebDriverWait(driver, wait).until(
 				EC.presence_of_element_located((By.TAG_NAME, 'body'))
 			)
@@ -182,7 +182,7 @@ def extract_data_from_page(
 			driver.quit()
     
 			# Save the extracted information to the output JSON file after each page
-			print("[INFO] Storing information in a JSON file...")
+			print("\n[INFO] Storing information in a JSON file...")
 			with open(output_file, 'w', encoding='utf-8') as file:
 				json.dump(extracted_pages_with_content, file, ensure_ascii=False, indent=4)
 

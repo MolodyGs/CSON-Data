@@ -24,7 +24,7 @@ The final data is located in the directory: `src/archive/DATA.json`.
 | Ex-Ante              | Center-right politics. Analytical and critical focus, directed at politicians, professionals, businesspeople, and readers of national political affairs.     | ... |
 | El Mostrador         | Pluralist. Progressive and independent line, directed at urban readers, young people, academics, and politically engaged Chileans.                           |
 | El País              | Center-left politics. Progressive and critical focus, aimed at an international audience and readers interested in global politics.                          |
-| Gamba                | _No clear data_                                                                                                                                              | ... |
+| Gamba                | An openly progressive and leftist political stance, aimed at young, digital, and activist Chilean audiences.                                                 | ... |
 
 [El Mostrador]: https://es.wikipedia.org/wiki/El_Mostrador
 [La Cuarta]: https://es.wikipedia.org/wiki/La_Cuarta

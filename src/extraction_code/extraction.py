@@ -154,9 +154,10 @@ def extract_data_from_page(
 			driver.set_page_load_timeout(wait)
 			driver.get(page['link'])
 			driver = before(driver) if before is not None else driver
-			body=WebDriverWait(driver, wait).until(
-				EC.presence_of_element_located((By.TAG_NAME, 'body'))
+			WebDriverWait(driver, wait).until(
+					lambda d: d.execute_script("return document.readyState") == "complete"
 			)
+			body = driver.find_element(By.TAG_NAME, 'body')
 
 			# Extract author, description and content using the provided functions
 			author = get_author(body)
@@ -182,7 +183,7 @@ def extract_data_from_page(
 			driver.quit()
     
 			# Save the extracted information to the output JSON file after each page
-			print("\n[INFO] Storing information in a JSON file...")
+			print("[INFO] Storing information in a JSON file...")
 			with open(output_file, 'w', encoding='utf-8') as file:
 				json.dump(extracted_pages_with_content, file, ensure_ascii=False, indent=4)
 

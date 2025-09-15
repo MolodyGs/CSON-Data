@@ -24,13 +24,29 @@ google_classes = {
     }
 
 def extract_articles_from_google(website: str, newscast: str, pages: int, output: str, keywords: str = "Estallido Social", robust: bool = True):
+    """
+    Extract articles from Google search results
+    Parameters:
+        website: The website to extract articles from (ex: "latercera.com")
+        newscast: The name of the newscast
+        pages: The number of Google pages to process
+        output: The name of the output JSON file
+        keywords: The keywords to search for
+        robust: Whether to use the robust extraction process with retries
+    """
     if robust:
         robust_extract_articles_process(website, newscast, pages, output, keywords)
     else:
         extract_articles(website, newscast, pages, output, keywords)
 
 # Standard extraction process without retries
-def extract_articles(website: str, newscast: str, pages: int, filename: str, keywords: str = "Estallido Social", ):
+def extract_articles(
+		website: str, 
+		newscast: str, 
+		pages: int, 
+		filename: str, 
+		keywords: str = "Estallido Social"
+    ):
 	"""
     Standard extraction process without retries
     Parameters:
@@ -121,7 +137,20 @@ def extract_data_from_page(
     input_file, output_file,
     before: Callable[[], any] = None,
     limit_of_pages: int = 1,
-    wait=20):
+    wait=20
+    ):
+	"""
+    Extract data from each page using the provided functions
+    Parameters:
+		get_author: Function to extract the author from the page
+		get_description: Function to extract the description from the page
+		get_content: Function to extract the content from the page
+		input_file: The input JSON file with the list of pages to process
+		output_file: The output JSON file to store the extracted data
+		before: A function to execute before extracting data from the page (optional)
+		limit_of_pages: The maximum number of pages to process
+		wait: The maximum time to wait for the page to load	
+ 	"""
 
 	extracted_pages = {"pages": []}
 	extracted_pages_with_content = {"pages": []}
@@ -187,7 +216,23 @@ def extract_data_from_page(
 			with open(output_file, 'w', encoding='utf-8') as file:
 				json.dump(extracted_pages_with_content, file, ensure_ascii=False, indent=4)
 
-def robust_extract_articles_process(website: str, newscast: str, pages: int, output: str, keywords: str = "Estallido Social"):
+def robust_extract_articles_process(
+		website: str, 
+		newscast: str, 
+		pages: int, 
+		output: str, 
+		keywords: str = "Estallido Social"
+    ):
+	"""
+	Robust extraction process with retries
+	Parameters:
+		website: The website to extract articles from (ex: "latercera.com")
+		newscast: The name of the newscast
+		pages: The number of Google pages to process
+		output: The name of the output JSON file
+		keywords: The keywords to search for
+	"""
+    
 	print("[INFO] Starting extraction process from Google...")
 	print("[INFO] Website:", website)
 	print("[INFO] Newscast:", newscast)

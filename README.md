@@ -4,7 +4,7 @@ Interest range: November 15, 2019 – December 17, 2023
 
 ## Final Data
 
-The final data is located in the directory: `src/archive/DATA.json`.
+The final data is located in the directory: `src/archive/FINAL_DATA.json`.
 
 ## Media Outlet and Ideology
 

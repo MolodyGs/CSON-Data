@@ -58,6 +58,7 @@ The final data is located in the directory: `src/archive/FINAL_DATA.json`.
 | El Mostrador         | 86                 |
 | El País              | 102                |
 | Gamba                | 17                 |
+| Total                | 931                |
 
 ## Directory Structure
 
